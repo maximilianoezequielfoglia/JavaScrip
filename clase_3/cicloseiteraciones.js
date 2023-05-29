@@ -79,7 +79,7 @@ while (deporte != "s") {
 
   deporte = prompt("Ingresa otro deporte que te guste (s-para salir)");
 }
-*/
+
 // variable con entrada para acceder a la compra
 let eleccion = prompt(
   "Hola!! Bienvenid@!!\nGracias por acceder a nuestra tienda!\nDeseas adquirir alguna prenda?\ns-sí."
@@ -123,3 +123,4 @@ function totalCompra(precio) {
   total = total + precio;
   alert("El monto de tu compra es de: $" + total);
 }
+*/
